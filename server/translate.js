@@ -834,7 +834,6 @@
         'Remote Protocol': '远程协议',
         'Remote TLS Version': '远程 TLS 版本',
         'Remote connections are enabled': '远程连接已启用',
-        'Remote connections are not': '远程连接不',
         'Remove Password': '移除密码',
         'Remove file': '移除文件',
         'Remove reply': '移除回复',
